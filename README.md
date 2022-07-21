@@ -1,6 +1,6 @@
 ### Hello World 😊
 
-I am twenty years old beginner front-end developer based in Cracow, Poland.
+I am twenty years old front-end developer based in Cracow, Poland.
 
 - ✨ In love-hate relationship with JavaScript
 - 📖 Learning React, TypeScript
